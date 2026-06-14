@@ -3,3 +3,4 @@ pandas
 numpy
 scikit-learn
 pickle-mixin
+fpdf==1.7.2
